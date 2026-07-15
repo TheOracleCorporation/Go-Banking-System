@@ -1,0 +1,4 @@
+*
+!.gitignore
+!mini-projects/
+!mini-projects/bankingsystem.go
